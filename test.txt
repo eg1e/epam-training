@@ -1,4 +1,9 @@
 hello world
 goodbye
+<<<<<<< HEAD
 greetings
 -----------
+=======
+
+greetings
+>>>>>>> acfdcb7499e5caddf527e2b0ebbf2c54999e87a6
